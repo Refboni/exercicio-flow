@@ -1,2 +1,3 @@
-# calculadora basica
-def subtracao(a, b): return a - b  
+# Calculadora conflito 
+def soma(a, b): return a + b
+def subtracao(a, b): return a - b
